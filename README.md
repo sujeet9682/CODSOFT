@@ -15,9 +15,9 @@ To contribute to this project, please follow the guidelines outlined in our [Con
 
 ## Code of Conduct
 
-Please make sure to read and adhere to our [Code of Conduct](https://https://github.com/sujeet9682/WebDev/blob/main/CODE_OF_CONDUCT.md) before contributing. We strive to maintain a friendly and inclusive community for everyone.
+Please make sure to read and adhere to our [Code of Conduct](https://github.com/sujeet9682/WebDev/blob/main/CODE_OF_CONDUCT.md) before contributing. We strive to maintain a friendly and inclusive community for everyone.
 
 ## Our Contributors
-<a href="https://https://github.com/sujeet9682/WebDev/graphs/contributors">
+<a href="https://github.com/sujeet9682/WebDev/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sujeet9682/WebDev&max=100" />
 </a>
